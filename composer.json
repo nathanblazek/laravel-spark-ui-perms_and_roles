@@ -1,0 +1,14 @@
+{
+    "name": "nathanblazek/laravel-spark-ui-perms_and_roles",
+    "description": "UI for Laravel Spark to provide permissions and roles management for your application within the Kiosk interface",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nathan Blazek",
+            "email": "ncblazek@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
