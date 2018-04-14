@@ -15,6 +15,10 @@ class PermsAndRolesServiceProvider extends ServiceProvider
     {
         //put routes, event listeners, or other functionality here
         include __DIR__.'/routes.php';
+
+        $this->publishes([
+            __DIR__.'/views' => base_path('resources/views/ncb/spark/ui/'),
+        ]);
     }
 
     /**

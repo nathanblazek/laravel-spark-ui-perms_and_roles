@@ -1,6 +1,6 @@
 <?php
 
-namespace ncb\PermsAndRoles;
+namespace ncb\PermsAndRoles\Controller;
 
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
